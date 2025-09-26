@@ -1,0 +1,7 @@
+# Task 4: String Escape Characters
+
+This task demonstrates how to use escape characters in strings to handle special characters like apostrophes or quotes.
+
+## How to Run
+1. Open `index.html` in your browser.
+2. The string with escape characters will be displayed on the page.

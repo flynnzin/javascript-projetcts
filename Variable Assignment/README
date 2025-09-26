@@ -1,0 +1,7 @@
+# Task 3: Variable Assignment
+
+This task demonstrates how to assign a value to a variable and display it using `document.write()` and `window.alert()`.
+
+## How to Run
+1. Open `index.html` in your browser.
+2. The variable's value will be displayed on the page and in an alert box.
